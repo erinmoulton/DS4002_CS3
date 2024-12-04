@@ -1,8 +1,10 @@
 # A DS 4002 Case Study by Erin Moulton 
 # Hook and Rubric Documents
 The hook outlining the trajectory of the case study is located in this repository labeled, "CS3Hook.pdf". The rubric, "CS3Rubric.pdf" outlines the case study goal, expected deliverables, and submission requirements.
+
 #Data 
 The data necessary to conduct this case study is located within the "Materials" folder labeled "DATA". This contains the process to retrieve the intial dataset as well as a downloadable file of the final, refined dataset. The dataset contains Billboard Top 100 data since 1958 which I retrieved from the GitHub User, HipsterVizNinja: https://github.com/HipsterVizNinja/random-data/tree/main/Music/hot-100 
+
 #References
 
 Molanphy, C. (2019, July 29). How ‘Old Town Road’ became the longest-running No. 
